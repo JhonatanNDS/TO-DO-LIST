@@ -17,7 +17,7 @@ body{
     background-color: rgb(142, 209, 253);
 }
 button#add{
-    width: 10%;
+    width: 12%;
     height:35px;
     border: none;
     border-radius: 10px;
@@ -30,7 +30,7 @@ button#del{
     background-color: rgba(255, 76, 76, 0.411);
     border: none;
     border-radius: 7px;
-    width: 10%;
+    width: 15%;
     height: 23px;
 }
 li {
